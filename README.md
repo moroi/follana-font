@@ -1,13 +1,13 @@
 # Follana
 
+![](https://github.com/moroi/follana-font/blob/main/img/ogp.png)
+
 "Follana" means "cave" in Japanese.
 This font is Freebie!
 
-![](https://github.com/moroi/follana-font/blob/master/img/ogp.png)
-
 ## Web site
 
-[https://follana.com/](https://follana.com/)
+[https://follana.doocts.com/](https://follana.doocts.com/)
 
 ## License
 
